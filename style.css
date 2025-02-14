@@ -1,0 +1,46 @@
+
+body{
+
+    
+    background-color: rgba(222, 66, 4, 0.562);
+}
+
+
+.title{
+
+    color: aliceblue;
+  justify-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.Tips{
+
+
+    margin:70px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+div.button{
+
+
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+   
+}
+input{
+
+
+    
+    background-color: darksalmon;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(249, 249, 249);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
